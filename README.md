@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OhBeggar/OhBeggar/pacman-output/pacman-contribution-graph-dark.svg">
